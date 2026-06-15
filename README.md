@@ -1,7 +1,4 @@
 # FUTURE_UIUX_02
-# FUTURE_UIUX_03
-
-## UI/UX Internship Task 3
 
 # Uber Reimagined – Taxi/Cab Booking Mobile App
 
